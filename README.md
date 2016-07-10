@@ -1,10 +1,13 @@
 
 # Test
-#The Beginning Work for Knowledge
-Yes no
+#The Beginning : Work for Knowledge
 
-No Yes
+I am a beginner in github
 
-i added this line
+# Basic command line 
 
-i am here 
+git add *
+
+git add " first commit"
+
+git push 
